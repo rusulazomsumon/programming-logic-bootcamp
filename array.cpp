@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int numbers[5] = {10, 20, 30, 40, 50};
+    int numbers[6] = {50, 20, 30, 40, 50};
 
     cout << numbers[0] << "\n";
     cout << numbers[1] << "\n";
